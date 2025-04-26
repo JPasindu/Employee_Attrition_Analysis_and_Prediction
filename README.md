@@ -1,4 +1,4 @@
-# 🧠 Employee Attrition Prediction and Risk Simulation
+# 🧠 Employee Attrition Analysis and Prediction
 
 ## 📚 Overview
 
