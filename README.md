@@ -45,6 +45,15 @@ Starting from **exploratory data analysis (EDA)**, progressing through **machine
 
 ---
 
+## 📈 Key Outcomes
+
+- Discovered hidden patterns influencing early attrition
+- Built a predictive model to forecast employee risk at onboarding
+- Created a simple dashboard that could inspire real HR decision support tools
+- Highlighted the value of data-driven understanding rather than assumptions
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, R, PHP, HTML/CSS/JavaScript
@@ -55,24 +64,14 @@ Starting from **exploratory data analysis (EDA)**, progressing through **machine
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
-## 📈 Key Outcomes
-
-- Discovered hidden patterns influencing early attrition
-- Built a predictive model to forecast employee risk at onboarding
-- Created a simple dashboard that could inspire real HR decision support tools
-- Highlighted the value of data-driven understanding rather than assumptions
-
----
-
 ## 👥 Contributors
 
 - Samudika
 - [@Meedum](https://www.linkedin.com/in/meedum-keerthisiri-5a75a7212/)
 - [@Pasindu](https://www.linkedin.com/in/pasindu-madusanka-544517261/)
+
+---
+
+## 📂 Repository Structure
 
 ---
