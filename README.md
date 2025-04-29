@@ -68,3 +68,11 @@ Starting from **exploratory data analysis (EDA)**, progressing through **machine
 - Highlighted the value of data-driven understanding rather than assumptions
 
 ---
+
+## 👥 Contributors
+
+- Samudika
+- [@Meedum](https://www.linkedin.com/in/meedum-keerthisiri-5a75a7212/)
+- [@Pasindu](https://www.linkedin.com/in/pasindu-madusanka-544517261/)
+
+---
